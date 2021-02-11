@@ -1,7 +1,5 @@
 # MERN Starter
 
-# Getting Started
-
 This project was bootstrapped with [MERN Starter](https://github.com/dovimaj/mern-starter).
 
 ## Available Scripts
