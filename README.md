@@ -19,4 +19,4 @@ You will also see any lint errors in the console.
 
 ### `npm run kill`
 
-Will kill both ports.
+Kills both ports.
