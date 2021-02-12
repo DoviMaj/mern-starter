@@ -8,7 +8,7 @@
     "installAll": "npm install && (cd server && npm install) && (cd client && npm install)",
     "server": "cd server && npm run dev",
     "client": "cd client && npm start",
-    "start": "concurrently --kill-others \"cd server && npm run dev\" \"cd client && npm start\" ",
+    "start": "concurrently --kill-others \"npm run server\" \"npm run client\" ",
     "kill": "kill-port 3000 5000"
   },
   "keywords": [],
